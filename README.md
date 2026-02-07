@@ -9,10 +9,9 @@ I am a developer focused on building scalable, modular web applications with a "
 ### 🛠️ Tech Stack & Tools
 
 **Development**
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Python
+- **Frontend:** React, Next.js, Tailwind CSS, Shad cn
+- **Backend:** Node.js, Express, Python , laravel
 - **Database:** MongoDB, Upstash, PostgreSQL
-- **Deployment:** Vercel
 
 **Cybersecurity (Learning)**
 - **Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Kali Linux
