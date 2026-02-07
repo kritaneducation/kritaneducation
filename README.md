@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Kritan Rimal 👋 
 
-<!--
-**kritaneducation/kritaneducation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | 🛡️ Aspiring Cybersecurity Analyst | 💻 Tech Enthusiast
 
-Here are some ideas to get you started:
+I am a developer focused on building scalable, modular web applications with a "Security-First" mindset. I specialize in the MERN stack and am currently transitioning into the world of Cybersecurity to build more resilient digital infrastructures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Development**
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, Python
+- **Database:** MongoDB, Upstash, PostgreSQL
+- **Deployment:** Vercel
+
+**Cybersecurity (Learning)**
+- **Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Kali Linux
+- **Focus:** OWASP Top 10, Web Pentesting, Network Security
+
+---
+
+### 🔭 Current Projects & Learning
+- **Modular Web Apps:** Building a customer management system with integrated invoicing and quotes.
+- **Security Audit:** Implementing JWT with HTTP-only cookies and MFA in my current apps to ensure secure authentication.
+- **CTF Challenges:** Actively practicing on TryHackMe and HackTheBox to sharpen my penetration testing skills.
+
+---
+
+### 📊 GitHub Stats
+![Kritan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritaneducation&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritaneducation&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect with Me
+- **Portfolio:** [kritanrimal.com.np](https://www.kritanrimal.com.np/)
+- **LinkedIn:**  https://linkedin.con/in/kritan-rimal
+
+> "The only way to learn a new programming language or security tool is by writing programs or breaking things in it."
